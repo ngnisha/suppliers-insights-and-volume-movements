@@ -1,0 +1,39 @@
+Data Sets
+
+Three primary data sets:
+Invoices: Invoice number, date, part details, supplier info, and prices.
+Parts: Material, origin, weight, and other specifications.
+Suppliers: Supplier details, location, and business strategy.
+Dashboard Requirements
+
+Supplier Overview Dashboard:
+
+Purpose: Understand supplier performance and capabilities.
+Content:
+Status of each supplier.
+Supplier assessment (good or not).
+Service capabilities (e.g., metal casting, machining).
+Volume Movement Dashboard:
+
+Purpose: Track purchase trends and material weights.
+Filter Options:
+Business unit.
+Purchasing group.
+Plant.
+Part type.
+Supplier name.
+Material type.
+Benefits
+
+Informed Decision-Making: The planner can make data-driven decisions on supplier selection and procurement.
+Improved Purchasing Strategy: Insights into changing purchase patterns over time.
+Next Steps
+
+Data Processing: Clean and organize data for analysis.
+Dashboard Creation: Design and develop Supplier Overview and Volume Movement dashboards.
+Analysis: Utilize data for supplier evaluations and purchase trend analysis.
+Decision-Making: Make informed business decisions based on insights.
+Conclusion
+
+The project will empower the planner with tools to understand supplier performance and optimize purchasing strategies.
+Feel free to copy and paste this format into your GitHub repository as a Markdown file for an organized and visually appealing presentation.
