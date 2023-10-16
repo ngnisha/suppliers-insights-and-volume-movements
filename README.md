@@ -4,7 +4,7 @@ This EDA is performed on large data in power bi where the main part was to trans
 <br>
 Click Here 👇<br><br>
 
-[Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiODVkNGRkZmItNzk1Mi00NDY4LTkzNDUtMTk3M2MxNzgyYmM4IiwidCI6ImM0YzUzNGFiLTZlMGMtNDRmOC04YzRiLTAxN2ViZWUxZGMxYiJ9](https://app.powerbi.com/view?r=eyJrIjoiMWViZDQyNWItZTA1NC00Y2EwLWJkMjYtNTZkOTlhMjBkNDQxIiwidCI6IjdmNGJkZWI3LTNlYzItNDE0Yy05Y2QwLTUzYjIxMTM0MTlhNCJ9))
+[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWViZDQyNWItZTA1NC00Y2EwLWJkMjYtNTZkOTlhMjBkNDQxIiwidCI6IjdmNGJkZWI3LTNlYzItNDE0Yy05Y2QwLTUzYjIxMTM0MTlhNCJ9)
 
 <br>
 **Title: Power BI Project - Supplier Insights and Volume Analysis**<br><br>
